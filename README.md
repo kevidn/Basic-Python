@@ -1,0 +1,2 @@
+# Python Fundamentals + Intermediate
+This is a Python Material that I made based on YouTube and the Internet. You can use it to learn. I provide comments on each syntax in the Bahasa, so that Indonesian can understand the function of the syntax in the language they understand. Hopefully you can use it as good as possible. Thank You. ✌️
